@@ -1,0 +1,21 @@
+body {
+  font-family: 'Arvo', serif;
+  font-size: 48px;
+  background-color: #ff7b74;
+  color: #74e3ff;
+}
+
+#wrapper {
+  text-align: center;
+}
+
+#title {
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+  color: #74e3ff;
+  text-shadow: #a84e4a 5px 5px;
+}
+
+#content {
+}
+
